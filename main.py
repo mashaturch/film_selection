@@ -1,4 +1,5 @@
 # This program for choosing a movie according to your wishes
+# Developer:   Turchinovich Maria
 
 years = input ('Вы хотите фильмы до или после 2000 года?\n')
 # film selection up to 2000
